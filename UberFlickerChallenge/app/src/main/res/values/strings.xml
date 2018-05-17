@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">UberFlickerChallenge</string>
+    <string name="btnSearch">Search</string>
+    <string name="search_images">Search images</string>
+</resources>
